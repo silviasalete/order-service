@@ -10,6 +10,7 @@ Microserviço para ordem de serviço
 - Clone o repositório
 - Baixe as depêndencias ``$ mvn install``
 - Rode o projeto ``$ mvn spring-boot:run``
+- Acesse: http://localhost:8081/ para verificar se a aplicação está rodando
   
 # Banco de dados
 PostgreSQL
